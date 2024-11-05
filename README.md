@@ -46,9 +46,9 @@ The analysis was conducted through the following steps:
 
 ## Key Findings
 
-- **Top-Selling Products**: The analysis identified **Shoes** as the top product, generating the highest revenue with 72,500 units sold and a revenue of $3,087,500. **Shirts** and **Hats** were also strong performers, with total revenues of $2,450,000 and $1,587,500, respectively.
-- **Regional Performance**: The **South** region emerged as the top performer, with total sales reaching 122,500 units and a revenue of $4,675,000. The **East** and **North** regions followed, with the **West** region trailing.
-- **Monthly Sales Trends**: Notable sales spikes were observed in February, with 25,000 units sold and $1,250,000 in revenue, indicating possible seasonal purchasing behavior.
+- **Top-Selling Products**: The analysis identified **Shoes** as the top product, generating the highest revenue with 72,500 units sold and a revenue of #3,087,500. **Shirts** and **Hats** were also strong performers, with total revenues of #2,450,000 and #1,587,500, respectively.
+- **Regional Performance**: The **South** region emerged as the top performer, with total sales reaching 122,500 units and a revenue of #4,675,000. The **East** and **North** regions followed, with the **West** region trailing.
+- **Monthly Sales Trends**: Notable sales spikes were observed in February, with 25,000 units sold and #1,250,000 in revenue, indicating possible seasonal purchasing behavior.
 - **Outlier Detection**: Specific months displayed significant sales fluctuations, with conditional formatting highlighting months where sales were more than 1.5x the average or less than 0.5x.
 
 ## Visualizations

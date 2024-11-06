@@ -3,7 +3,7 @@
 
 ## Overview
 
-This project provides a comprehensive analysis of sales performance data for a retail store, leveraging advanced data exploration techniques to extract actionable insights. The objective is to understand key sales metrics such as top-selling products, regional performance, and monthly sales trends. The findings are visualized through an interactive Power BI dashboard, allowing stakeholders to make informed decisions based on data-driven insights.
+This project provides a comprehensive analysis of sales performance data for a retail store, leveraging advanced data exploration techniques to extract actionable insights. The objective is to understand key sales metrics such as top-selling products, regional performance, and monthly sales trends. The findings are visualized through an interactive dashboard using Excel spreadsheet and sql RDBMS, allowing stakeholders to make informed decisions based on data-driven insights.
 
 ## Table of Contents
 

@@ -53,7 +53,7 @@ The analysis was conducted through the following steps:
 
 ## Visualizations
 
-An interactive Power BI dashboard was developed to complement these findings. This dashboard provides a visual representation of key insights, including product and regional performance and monthly trends. The visualizations enable stakeholders to interact with the data, revealing patterns that drive strategic decisions.
+An interactive Power BI dashboard could be developed to complement these findings. This dashboard will provides a visual representation of key insights, including product and regional performance and monthly trends. The visualizations will enable stakeholders to interact with the data, revealing patterns that drive strategic decisions.
 
 ## Conclusion
 
